@@ -1,0 +1,762 @@
+/* header-bg */
+#header-bg{
+   border-radius: 16px;
+   background: linear-gradient(180.00deg, rgba(7, 2, 17, 1),rgba(7, 2, 17, 0) 100%);
+   background-image: url("/images/Banner\ Image.png");
+   background-repeat: no-repeat;
+   height: 100vh;
+   margin: 50px 140px 120px 140px;
+   background-size: contain;
+   display: flex;
+   justify-content: center;
+   
+   
+
+}
+
+.header-content {
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   margin: 177 340 ;
+   text-align: center;
+   
+}
+.head {
+   /* Happy New Year */
+width: 259px;
+height: 32px;
+color: rgba(255, 255, 255, 1);
+
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+padding: 177px 530px 24px 530px;
+justify-content: center;
+flex-direction: column;
+
+
+
+}
+
+.head-title {
+  /* New Year Party Celebration */
+width: 632px;
+height: 190px;
+color: rgba(255, 255, 255, 1);
+
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+letter-spacing: 0%;
+text-align: center;
+padding: 20px 344px 177px 344px;
+
+}
+
+/* offer-content */
+#offer-content {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /* margin: 390px 120px; */
+   
+}
+
+/* offer-head */
+.offer-head{
+   /* 65% OFF */
+   color: rgba(255, 0, 0, 1);
+padding-left: 600px;
+padding-right: 600px;
+
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+display: flex;
+justify-content: center;
+text-align: center;
+padding-bottom: 25px;
+width: 383px;
+height: 88px;
+   
+}
+
+/* offer */
+.offer{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding-bottom: 50px;
+   
+}
+
+
+/* offer-title */
+.offer-title{
+   /* OUR HOLIDAY DEALS ARE BETTER */
+width: 397px;
+height: 24px;
+   color: rgba(255, 0, 0, 1);
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+}
+
+/* offer-subtitle */
+.offer-subtitle{
+/* ALL CATEGORIES */
+width: 410px;
+height: 48px;
+color: rgba(7, 2, 17, 1);
+
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 20px;
+}
+
+
+/* new-year-img */
+.new-year-img{
+   /* Vector */
+width: 802.9px;
+height: 500px;
+padding-left: 400px;
+padding-right: 400px;
+
+}
+#party-section {
+   background-image: url(/images/Vectorrr.png);
+   background-repeat: no-repeat;
+   height: 600px;
+   width: auto;
+   background-size: cover;
+   margin: 120px 140px 120px 140px;
+   background-position: center;
+   border-radius: 16px;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+
+}
+
+.left {
+   display: flex;
+   flex-direction: column;
+   gap: 16px;
+   flex: 1;
+
+}
+
+.right {
+   /* Group 70 */
+width: 319.83px;
+height: 464.66px;
+   display: flex;
+   flex-direction: column;
+   gap: 16px;
+   flex: 1;
+   align-items: flex-end;
+   margin-top: 68px;
+   margin-bottom: 68px;
+   margin-right: 138px;
+
+}
+
+.box1 {
+   /* Welcome to midnight party */
+width: 642px;
+height: 176px;
+color: rgba(255, 255, 255, 1);
+padding: 126px 90px 24px 126px ;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 11%;
+text-align: left;
+}
+
+.box2 {
+   /* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod. */
+width: 697px;
+height: 60px;
+color: rgba(255, 255, 255, 0.8);
+margin-left: 126px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 32px;
+}
+
+.box3 {
+   /* Join Now */
+width: 103px;
+height: 20px;
+color: rgba(255, 255, 255, 1);
+margin-left: 158px;
+font-family: Inter;
+font-size: 15px;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+}
+
+
+/* countdown-section */
+#countdown-section{
+   /* Vector */
+width: auto;
+height: 482px;
+border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+background-position: center;
+background-size: cover;
+margin: 0px 140px 120px 140px;
+
+}
+
+/* countdown */
+.countdown {
+   /* Group 92 */
+width: 549px;
+height: 272px;
+padding: 100px 385px 110px 386px;
+border-radius: 8px;
+
+}
+
+.countdown-text {
+/* Place: New Park Hotel Date: 31 December Night 2023 Time: Evening 7.30 pm to 12.30 am */
+width: 549px;
+height: 168px;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+
+}
+
+.text-color {
+   color: rgba(255, 0, 0, 1);
+}
+.btn {
+   /* JOIN NOW */
+   /* Frame 1 */
+width: 167px;
+height: 56px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 10;
+padding: 16px 32px 16px 32px;
+border-radius: 8px;
+background: rgba(255, 0, 0, 1);
+align-items: center;
+margin-top: 48px;
+margin-left: auto;
+margin-right: auto;
+
+}
+.btn-color {
+/* Join Now */
+width: 103px;
+height: 24px;
+color: rgba(255, 255, 255, 1);
+
+font-family: Inter;
+font-size: 15px;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+}
+
+/* Best-offer2024 */
+#Best-offer2024 {
+   width: auto;
+   height: 463px;
+   
+   display: flex;
+   
+   margin: 0px 140px 120px 140px;
+   
+}
+
+/* offer2024-content */
+.offer2024-content {
+   /* Group 46 */
+width: 395px;
+height: 250px;
+padding-top: 104px;
+padding-bottom: 104px;
+
+}
+
+.offer2024-text {
+width: 328px;
+height: 93px;
+}
+
+.offer2024-title {
+/* NEW BEST OFFER */
+width: 207px;
+height: 24px;
+color: rgba(255, 0, 0, 1);
+padding-bottom: 21px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.offer2024-subtitle {
+/* Coming Soon */
+width: 328px;
+height: 48px;
+color: rgba(7, 2, 17, 1);
+
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+
+.offer2024-description {
+width: 393px;
+height: 128px;
+color: rgba(7, 2, 17, 0.6);
+padding-top: 34px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.offer2024-img {
+/* Group 20 */
+width: 364.84px;
+height: 364.84px;
+border-radius: 50%;
+border: 15px solid rgba(255, 0, 0, 1);
+object-fit: cover;
+padding: 40px;
+align-items: center;
+margin-left: 70px;
+margin-right: 118px;
+}
+
+/* Best-offer2024-content */
+.Best-offer2024-content {
+   display: block;
+   margin-top: 112px;
+   margin-left: 218px;
+   margin-right: 0px;
+}
+
+.Best-offer2024-title {
+/* 2024 */
+width: 126px;
+height: 48px;
+color: rgba(255, 0, 0, 1);
+
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.Best-offer2024-subtitle {
+/* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed. */
+width: 276px;
+height: 96px;
+color: rgba(7, 2, 17, 0.6);
+
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.Best-offer2024-img {
+   /* happy-new-year (1) 1 */
+width: 140px;
+height: 140px;
+margin-top: 43px;
+margin-bottom: 136px;
+}
+
+/* holiday-sale-section */
+#holiday-sale-section {
+   /* Group 84 */
+   width: auto;
+   height: 986.07px;
+   border-radius: 16px;
+   margin: 0px 140px 120px 140px;
+
+   
+}
+
+.holiday-contain {
+height: 260px;
+width: 1068px;
+margin: 0px 126px 64px 126px;
+text-align: center;
+
+   
+}
+
+.holiday-content {
+   width: 677px;
+   height: 136px;
+   margin: 0px 196px 28px 195px;
+}
+
+.holiday-title {
+/* WHAT IS FUNCTIONAL */
+width: 263px;
+height: 29px;
+color: rgba(7, 2, 17, 1);
+margin: 0px 402px 16px 403px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.holiday-subtitle {
+/* Holidays Sale 50% */
+width: 677px;
+height: 72px;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+margin: 0px 196px 28px 195px;
+
+}
+
+.Holidays {
+   color: rgba(255, 0, 0, 1);
+   font-family: Merriweather;
+   opacity: 100%;
+}
+
+.holiday-description {
+/* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod. Eleifend nunc purus quam id fermentum amet amet sit consectetur. */
+width: 1068px;
+height: 96px;
+color: rgba(7, 2, 17, 0.6);
+margin: 0px 126px 64px 126px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+justify-content: center;
+}
+
+.holiday-img {
+   /* Vector */
+width: auto;
+height: 662px;
+display: flex;
+justify-content: center;
+
+
+}
+
+.holiday-tob {
+   position: absolute;
+   width: 796px;
+   height: 662px;
+   margin: 65px 177px 0px 0px;
+}
+.holiday-sercle {
+   /* Group 83 */
+width: 305.69px;
+height: 305.69px;
+margin: 77px 40px  50px 974px;
+position: absolute;
+}
+.holiday-bg {
+   
+   width: 1320px;
+   height: 229px;
+   margin-top: 433px;
+   border-radius: 16px 0px 16px 16px;
+   background: rgba(255, 0, 0, 1);
+   
+}
+
+#best-gift {
+   width: 1320px;
+   height: 1163px;
+   margin: 0px 140px 120px 140px;
+   display: flex;
+   flex-direction: column;
+   align-items: left;
+   justify-content: center;
+   background-size: contain;
+   
+   
+}
+.gift-title {
+   /* THE BEST GIFTS */
+width: 192px;
+height: 24px;
+color: rgba(255, 0, 0, 1);
+margin-bottom: 21px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.gift-subtitle {
+   /* Our Awesome Portfolio */
+width: 566px;
+height: 48px;
+color: rgba(7, 2, 17, 1);
+margin-bottom: 34px;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.gift-description {
+   /* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod. */
+width: 896px;
+height: 64px;
+color: rgba(7, 2, 17, 0.6);
+margin-bottom: 48px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+/* mail-box */
+#mail-box {
+   width: auto;
+   height: 616px;
+   border-radius: 16px;
+   background: rgba(255, 0, 0, 0.05);
+   display: block;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin: 0px 140px 120px 140px;
+   background-size: contain;
+}
+.mail-info {
+padding: 80px 212px 48px 212px;
+}
+.mail-title {
+color: rgba(7, 2, 17, 1);
+padding: 40px;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+.mail-subtitle {
+/* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod. */
+width: 896px;
+height: 64px;
+color: rgba(7, 2, 17, 0.6);
+
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.mail-btn {
+display: flex;
+justify-content: center;
+align-items: stretch;
+border-radius: 16px;
+overflow: hidden;
+width: 400px;
+margin: 50px auto;
+}
+.mail-btn input {
+flex: 1;
+padding: 12px 16px;
+border: none;
+outline: none;
+font-size: 16px;
+background-color: #fff;
+}
+.mail-btn button {
+background-color: rgba(255, 0, 0, 1);
+color: #fff;
+border: none;
+padding: 12px 24px;
+font-size: 16px;
+cursor: pointer;
+transition: 0.3s;
+}
+.mail-btn button:hover {
+   background-color: darkred;
+}
+
+/* footer-section */
+#footer-section {
+   /* Rectangle 10 */
+width: auto;
+height: 609px;
+background: rgba(7, 2, 17, 1);
+margin: 0px;
+}
+.footer-info {
+/* Group 43 */
+/* width: 1185px; */
+height: 80px;
+padding: 120px 275px 50px 140px;
+display: flex;
+/* column-gap: 560px; */
+justify-content: space-between;
+
+}
+.footer-title{
+   /* 44, Big Building Roosevelt Street Beach Gardens Florida 33410 */
+width: 375px;
+height: 80px;
+color: rgba(255, 255, 255, 1);
+border-right: 560px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+ .footer-contact  {
+/* Group 42 */
+width: 251px;
+height: 80px;
+color: rgba(255, 255, 255, 1);
+text-decoration: none;
+}
+.contact-item {
+   /* Group 40 */
+   width: 235px;
+   height: 40px;
+   display: flex;
+   column-gap: 16px;
+}
+.contact {
+   
+   /* padding-top: 8px;
+   padding-bottom: 8px; */
+}
+.anchor-link {
+   width: 235px;
+   height: 40px;
+   display: flex;
+   column-gap: 16px;
+}
+.no-underline {
+   text-decoration: none;
+   color: rgba(255, 255, 255, 1);
+}
+
+.footer-icon {
+   /* Vector */
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   padding: 0px 640px 98px 632px;
+   column-gap: 24px;
+}
+.footer-text{
+   display: flex;
+   justify-content: space-between;
+}
+.footer-2017 {
+   /* 2017, All Rights Reserved. */
+width: 295px;
+height: 29px;
+color: rgba(255, 255, 255, 1);
+padding-left: 140px;
+padding-bottom: 120px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.footer-uns {
+   /* Unsubscribe */
+width: 145px;
+height: 29px;
+color: rgba(255, 255, 255, 1);
+padding-right: 140px;
+padding-bottom: 120px;
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
