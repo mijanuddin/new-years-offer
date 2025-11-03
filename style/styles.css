@@ -403,7 +403,7 @@ text-align: left;
 }
 
 .Best-offer2024-subtitle {
-/* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed. */
+
 width: 276px;
 height: 96px;
 color: rgba(7, 2, 17, 0.6);
@@ -703,11 +703,7 @@ text-decoration: none;
    display: flex;
    column-gap: 16px;
 }
-.contact {
-   
-   /* padding-top: 8px;
-   padding-bottom: 8px; */
-}
+/* .contact ruleset removed as it was empty */
 .anchor-link {
    width: 235px;
    height: 40px;
