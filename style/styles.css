@@ -2,7 +2,7 @@
 #header-bg{
    border-radius: 16px;
    background: linear-gradient(180.00deg, rgba(7, 2, 17, 1),rgba(7, 2, 17, 0) 100%);
-   background-image: url("/images/Banner\ Image.png");
+   background-image: url("../images/Banner\ Image.png");
    background-repeat: no-repeat;
    height: 100vh;
    margin: 50px 140px 120px 140px;
@@ -142,7 +142,7 @@ padding-right: 400px;
 
 }
 #party-section {
-   background-image: url(/images/Vectorrr.png);
+   background-image: url("../images/Vectorrr.png");
    background-repeat: no-repeat;
    height: 600px;
    width: auto;
